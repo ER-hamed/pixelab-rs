@@ -1,0 +1,13 @@
+[package]
+name = "pixelab-rs"
+authors = ["ER_Hamed"]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "High-performance graphics framework independent of hardware and operating system"
+repository = "https://github.com/ER-hamed/pixelab-rs"
+keywords = ["gui", "graphics"]
+categories = ["embedded", "no-std", "graphics"]
+
+[dependencies]
+pixelab-core = "0.1.0"
