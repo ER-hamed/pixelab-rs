@@ -1,0 +1,13 @@
+[package]
+name = "pixelab-evdev"
+version = "0.1.0"
+authors = ["ER_Hamed <er.hamed138@gmail.com>"]
+edition = "2021"
+license = "MIT"
+description = "Evdev Interface For pixelab-rs"
+repository = "https://github.com/ER-hamed/pixelab-evdev"
+keywords = ["pixelab-rs"]
+
+[dependencies]
+evdev = "0.13.1"
+pixelab-core = "0.1.0"

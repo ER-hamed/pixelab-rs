@@ -1,0 +1,11 @@
+[package]
+name = "pixelab-core"
+version = "0.1.0"
+authors = ["ER_Hamed <er.hamed138@gmail.com>"]
+edition = "2021"
+license = "MIT"
+description = "Core types, traits, and utilities for pixelab-rs"
+repository = "https://github.com/ER-hamed/pixelab-core"
+keywords = ["pixelab-rs"]
+
+[dependencies]

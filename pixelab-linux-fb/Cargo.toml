@@ -1,0 +1,14 @@
+[package]
+name = "pixelab-linux-fb"
+version = "0.1.0"
+authors = ["ER_Hamed <er.hamed138@gmail.com>"]
+edition = "2021"
+license = "MIT"
+description = "Linux FrameBuffer Interface For pixelab-rs"
+repository = "https://github.com/ER-hamed/pixelab-linux-fb"
+keywords = ["pixelab-rs"]
+
+[dependencies]
+pixelab-core = "0.1.0"
+pixelab-rgb8888x1 = "0.1.0"
+pixelab-rgb8888x4 = "0.1.0"
